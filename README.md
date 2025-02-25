@@ -15,7 +15,7 @@ sudo apt update-rc.d nginx defaults
      style="float: left; margin-right: 10px;" height="100px" width="238px" />
 
 
-```
+
 
 This can be limited. To do this have to edit `nginx.conf`
 ```
