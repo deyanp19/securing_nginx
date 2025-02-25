@@ -30,15 +30,17 @@ nginx.conf
 http {
     ##
     # Basic Settings
-    ###
+    ##
 
     server_tokens off;
-    ...
+    
 }
 
 ```
+
 #### reload the server 
-`suod systemctl reolad nginx`
+
+`sudo systemctl reolad nginx`
 
 ### Hide the 403 and 401 errors
 
